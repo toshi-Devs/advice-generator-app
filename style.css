@@ -1,3 +1,27 @@
+@media (max-width: 768px) {
+    body {
+      padding: 20px;
+    }
+  
+    .advice-generator {
+      width: 80%;
+      height: auto;
+    }
+  
+    #advice-text {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+  
+    .advice-API {
+      font-size: 16px;
+    }
+  
+    .quote-mark > img {
+      width: 80%;
+    }
+  }
+
 body {
     background-color: #202632;
     display: flex;
